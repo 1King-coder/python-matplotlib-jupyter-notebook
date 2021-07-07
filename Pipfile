@@ -9,6 +9,7 @@ requests = "*"
 bs4 = "*"
 matplotlib = "*"
 numpy = "*"
+env = "*"
 
 [dev-packages]
 
